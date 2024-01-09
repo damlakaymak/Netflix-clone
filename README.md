@@ -1,11 +1,10 @@
-## NETFLİX CLON
+## Netflix-Clone
 
+-HTML,CSS kulanılarak tasarlandı
 
+-video tagı kullandım
 
-- HTML,CSS kulanılarak tasarlandı.
+## GİF
 
-
-- Video tagı  kullanılara yaptım.
-
-<img src="screen gif.mp4" />
+<img src="screen gif.mp4/>"
 
