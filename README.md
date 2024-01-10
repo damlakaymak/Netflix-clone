@@ -1,9 +1,9 @@
-## NETFLİX-CLONE
+## NETFLİX CLONE
 
-- HTML,CSS kullanılarak tasarlandı.
+-HTML,CSS kullanılarak tasarlandı.
 
--Video tagı kullandım.
+-Video tagı kullanıldı.
 
-## GİF
+##GİF
 
-<img src="screen gif.mp4">
+<img src="SCREEN (2).gif">
